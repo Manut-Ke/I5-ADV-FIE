@@ -1,4 +1,4 @@
-# TP02 – Introduction to Hugging Face and Unsloth
+# TP03 – Introduction to Hugging Face and Unsloth
 
 ## Introduction
 
